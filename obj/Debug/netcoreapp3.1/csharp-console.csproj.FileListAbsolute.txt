@@ -1,0 +1,13 @@
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\bin\Debug\netcoreapp3.1\csharp-console.exe
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\bin\Debug\netcoreapp3.1\csharp-console.deps.json
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\bin\Debug\netcoreapp3.1\csharp-console.runtimeconfig.json
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\bin\Debug\netcoreapp3.1\csharp-console.runtimeconfig.dev.json
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\bin\Debug\netcoreapp3.1\csharp-console.dll
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\bin\Debug\netcoreapp3.1\csharp-console.pdb
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\obj\Debug\netcoreapp3.1\csharp-console.csprojAssemblyReference.cache
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\obj\Debug\netcoreapp3.1\csharp-console.csproj.CoreCompileInputs.cache
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\obj\Debug\netcoreapp3.1\csharp-console.AssemblyInfoInputs.cache
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\obj\Debug\netcoreapp3.1\csharp-console.AssemblyInfo.cs
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\obj\Debug\netcoreapp3.1\csharp-console.dll
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\obj\Debug\netcoreapp3.1\csharp-console.pdb
+E:\Libraries\Documents\VSCodeWorkspace\cursos_dio\csharp-fundamentos\csharp-examples\csharp-console\obj\Debug\netcoreapp3.1\csharp-console.genruntimeconfig.cache
