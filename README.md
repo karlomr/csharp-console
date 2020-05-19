@@ -1,4 +1,4 @@
-#Visual Studio Code aplicando Console C# Core .NET  3.0
+Console C# Core .NET  3.0 no Visual Studio Code 
 CRUD utilizando uma lista em C#
 
 - Acesso a listas usando linq;
