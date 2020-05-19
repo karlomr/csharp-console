@@ -2,6 +2,8 @@
 CRUD utilizando uma lista em C#
 
 - Acesso a listas usando linq;
+- Modificador de acessos out
+(https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/out-parameter-modifier)
 - Expressões lambda;
 (http://www.macoratti.net/18/05/c_explamb1.htm)
 - Partial Class;
