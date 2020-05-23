@@ -1,5 +1,5 @@
 Console C# Core .NET  3.0 no Visual Studio Code 
-CRUD utilizando uma listas
+CRUD utilizando listas
 
 - Acesso a listas usando linq;
 - Modificador de acessos out
