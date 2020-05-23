@@ -20,13 +20,13 @@ namespace csharp_console
             {
                 var mediaGeral = alunos.Average(x => x.Nota);
 
-                var conceito = GetConceitoNota(mediaGeral);
+                // var conceito = GetConceitoNota(mediaGeral);
 
                 /*  teste uso Lista de enum*/
-                // var lstConceito = Enum.GetValues(typeof(Conceito)).OfType<Conceito>();
+                var lstConceito = Enum.GetValues(typeof(ConceitoNota)).OfType<ConceitoNota>();
 
-                // var conceito = lstConceito.Where(w=>w.GetHashCode() > (int) mediaGeral)
-                //                             .Select(s => s.ToString()).SingleOrDefault();
+                var conceito = lstConceito.Where(w=>w.GetHashCode() > (int) mediaGeral)
+                                            .Select(s => s.ToString()).FirstOrDefault();
 
                 Console.WriteLine(MsgConsole.MSG11(mediaGeral, conceito));
                 Console.WriteLine();
@@ -35,20 +35,21 @@ namespace csharp_console
                 Console.WriteLine(MsgConsole.MSG01);
         }
 
-        private static string GetConceitoNota(decimal media)
-        {
-            string conceito = ConceitoNota.A.ToString();
+        //desnecessário ao se utilizar linq, resolve em uma linha o retorno do valor
+        // private static string GetConceitoNota(decimal media)
+        // {
+        //     string conceito = ConceitoNota.A.ToString();
             
-            foreach (var conc in Enum.GetValues(typeof(ConceitoNota)))
-            {
-                //Altera o conceito mediante a nota vinculada ao ENUM
-                if (media < conc.GetHashCode())
-                    conceito = conc.ToString();
-                break;
-            }
+        //     foreach (var conc in Enum.GetValues(typeof(ConceitoNota)))
+        //     {
+        //         //Altera o conceito mediante a nota vinculada ao ENUM
+        //         if (media < conc.GetHashCode())
+        //             conceito = conc.ToString();
+        //         break;
+        //     }
 
-            return conceito;
-        }
+        //     return conceito;
+        // }
 
         private static void ListarAluno()
         {
